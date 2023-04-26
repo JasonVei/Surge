@@ -1,4 +1,4 @@
-#使用Cloudflare策略建议添加
+# 使用Cloudflare策略建议添加
 DOMAIN-KEYWORD,Cloudflare
 DOMAIN-SUFFIX,api.cloudflareclient.com
 DOMAIN-SUFFIX,2606:4700:4700::1111
@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-KEYWORD,1.1.1.1
 DOMAIN-SUFFIX,zero-trust-client.cloudflareclient.com
 
-#PT站Cloudflare跳盾规则
+# 站点Cloudflare跳盾规则
 DOMAIN-SUFFIX,animetorrents.me
 DOMAIN-SUFFIX,awesome-hd.me
 DOMAIN-SUFFIX,beitai.pt
@@ -56,3 +56,5 @@ DOMAIN-SUFFIX,gainbound.net
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,carpt.net
 DOMAIN-SUFFIX,dicmusic.club
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,hares.top
