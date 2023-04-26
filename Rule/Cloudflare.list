@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-KEYWORD,1.1.1.1
 DOMAIN-SUFFIX,zero-trust-client.cloudflareclient.com
 
-#站点Cloudflare跳盾规则
+#PT站Cloudflare跳盾规则
 DOMAIN-SUFFIX,animetorrents.me
 DOMAIN-SUFFIX,awesome-hd.me
 DOMAIN-SUFFIX,beitai.pt
@@ -43,3 +43,16 @@ DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,trontv.com
 DOMAIN-SUFFIX,teamviewer.com
+DOMAIN-SUFFIX,piggo.me
+DOMAIN-SUFFIX,ptsbao.club
+DOMAIN-SUFFIX,hdatmos.club
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,hdarea.co
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,gainbound.net
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,carpt.net
+DOMAIN-SUFFIX,dicmusic.club
